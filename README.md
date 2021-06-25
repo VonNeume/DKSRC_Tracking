@@ -1,6 +1,6 @@
 # Discriminative Non-Linear Sparse Coding for Visual Object Tracking
 
-![image](https://github.com/wahahamyt/DKSRC_Tracking/blob/master/5ehecb.gif)
+![image](https://github.com/wahahamyt/DKSRC_Tracking/blob/main/5ehecb.gif)
 
 **1. Requirements:**
 
