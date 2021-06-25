@@ -16,6 +16,9 @@ The pretrained weights of CCP-DIM can be found at:
 
 
 > https://pan.baidu.com/s/19-vw4cdQDquk1ucLtF7Mdg, Code: 7ygx
+> https://pan.baidu.com/s/19-vw4cdQDquk1ucLtF7Mdg, Code: 7ygx
+
+Both the files should be located on the `./checkpoints/`.
 
 If you want to train the CCP-DIM in your own data, you can visit the following link for more details. 
 > https://github.com/wahahamyt/CCP-DIM
