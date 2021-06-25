@@ -1,5 +1,7 @@
 # Discriminative Non-Linear Sparse Coding for Visual Object Tracking
 
+![image](https://github.com/wahahamyt/DKSRC_Tracking/blob/master/5ehecb.gif)
+
 **1. Requirements:**
 
 You need firstly install Anaconda.
