@@ -15,8 +15,15 @@ pip install skfeature-chappers
 The pretrained weights of CCP-DIM can be found at:
 
 
+**Baidu Net Disk:**
+
 > https://pan.baidu.com/s/19-vw4cdQDquk1ucLtF7Mdg, Code: 7ygx
-> https://pan.baidu.com/s/19-vw4cdQDquk1ucLtF7Mdg, Code: 7ygx
+
+> https://pan.baidu.com/s/1-da71HWyrv2ipep8YcYLUg, Code: y7jd 
+
+**GoogleNet Disk:**
+
+> https://drive.google.com/drive/folders/1VLsG_lcv95M83A554KmoduV43eNLCvk7?usp=sharing 
 
 Both the files should be located on the `./checkpoints/`.
 
