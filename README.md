@@ -17,9 +17,9 @@ The pretrained weights of CCP-DIM can be found at:
 
 **Baidu Net Disk:**
 
-> https://pan.baidu.com/s/19-vw4cdQDquk1ucLtF7Mdg, Code: 7ygx
+> https://pan.baidu.com/s/1WKpDtjhqdgkgmzjqCxQ2rw 
+Code: drap 
 
-> https://pan.baidu.com/s/1-da71HWyrv2ipep8YcYLUg, Code: y7jd 
 
 **GoogleNet Disk:**
 
